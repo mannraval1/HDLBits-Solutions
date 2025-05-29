@@ -8,7 +8,13 @@ module top_module(
     wire [31:0] bXOR;
     wire cout;
 
-    assign bXOR = b ^ {32{sub}};
+    assign bXOR = b ^ ({32{sub}});
+    assign cout = sub ? (a[31] ^ bXOR[31]) : (a[31] ^ b[31]);
+
+    adder1 add16(a[15:0], bXOR[15:0], sub, sum[15:0], wire1);
+    adder2 add16(a[31:16], bXOR[31:16], wire1, sum[31:16], cout);
+
+endmodule bXOR = b ^ {32{sub}};
 
     adder1 add16(a[15:0], bXOR[15:0], sub, sum[15:0], wire1);
     adder2 add16(a[31:16], bXOR[31:16], wire1, sum[31:16], cout);

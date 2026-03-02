@@ -20,8 +20,8 @@ This repository contains my personal solutions to the **HDLBits** problem sets. 
 | **03. Modules** | ✅ Completed |
 | **04. Procedures** | ✅ Completed |
 | **05. More Verilog Features** | ✅ Completed |
-| **06. Combinational Logic** | 🔄 In Progress |
-| **07. Sequential Logic** | 🔄 In Progress |
+| **06. Combinational Logic** | ✅ Completed |
+| **07. Sequential Logic** | ✅ Completed |
 
 ---
 

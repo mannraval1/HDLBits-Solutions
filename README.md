@@ -10,8 +10,8 @@ This repository contains my personal solutions to the **HDLBits** problem sets. 
 
 ## 📊 Real-Time Progress
 
-> **Total Problems Solved:** ~70 / 181 
-> *(Update the number in the badge URL above to change the progress bar!)*
+> **Total Problems Solved:** ~113 / 181 
+
 
 | Category | Status |
 | :--- | :--- |

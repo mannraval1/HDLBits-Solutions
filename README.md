@@ -1,6 +1,6 @@
 # HDLBits Solutions 🚀
 
-[![HDLBits Progress](https://geps.dev/progress/70?dangerColor=ff4b5c&warningColor=f9d423&successColor=00d26a)](https://hdlbits.01xz.net/)
+[![HDLBits Progress](https://geps.dev/progress/62?dangerColor=ff4b5c&warningColor=f9d423&successColor=00d26a)](https://hdlbits.01xz.net/)
 [![Language](https://img.shields.io/badge/Language-Verilog-blue.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -10,8 +10,8 @@ This repository contains my personal solutions to the **HDLBits** problem sets. 
 
 ## 📊 Real-Time Progress
 
-> **Total Problems Solved:** ~70 / 181 
-> *(Update the number in the badge URL above to change the progress bar!)*
+> **Total Problems Solved:** ~113 / 181 
+
 
 | Category | Status |
 | :--- | :--- |
@@ -20,8 +20,9 @@ This repository contains my personal solutions to the **HDLBits** problem sets. 
 | **03. Modules** | ✅ Completed |
 | **04. Procedures** | ✅ Completed |
 | **05. More Verilog Features** | ✅ Completed |
-| **06. Combinational Logic** | 🔄 In Progress |
-| **07. Sequential Logic** | 🔄 In Progress |
+| **06. Combinational Logic** | ✅ Completed |
+| **07. Sequential Logic** | ✅ Completed |
+| **08. More Circuits** | 🛠️ In Progress |
 
 ---
 

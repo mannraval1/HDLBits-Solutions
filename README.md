@@ -1,6 +1,6 @@
 # HDLBits Solutions 🚀
 
-[![HDLBits Progress](https://geps.dev/progress/62?dangerColor=ff4b5c&warningColor=f9d423&successColor=00d26a)](https://hdlbits.01xz.net/)
+[![HDLBits Progress](https://geps.dev/progress/82?dangerColor=ff4b5c&warningColor=f9d423&successColor=00d26a)](https://hdlbits.01xz.net/)
 [![Language](https://img.shields.io/badge/Language-Verilog-blue.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -10,7 +10,7 @@ This repository contains my personal solutions to the **HDLBits** problem sets. 
 
 ## 📊 Real-Time Progress
 
-> **Total Problems Solved:** ~113 / 181 
+> **Total Problems Solved:** ~149 / 181 
 
 
 | Category | Status |

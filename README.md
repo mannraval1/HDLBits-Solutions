@@ -36,7 +36,7 @@ The solutions are organized by the original HDLBits curriculum sections:
 * `04-Procedures/`: Always blocks, if/case statements, and blocking/non-blocking assignments.
 * `05-More Verilog Features/`: Loops, generate blocks, and vector reduction.
 * `06-Combinational Logic/`: Arithmetic circuits and multiplexers.
-* `07-Sequential Logic/`: Flip-flops, counters, and Finite State Machines (FSM).
+* `07-Sequential Logic/`: Flip-flops, counters, and Finite State Machines (FSM), More miscellaneous circuits.
 
 ---
 

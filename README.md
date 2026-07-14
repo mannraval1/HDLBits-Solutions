@@ -22,7 +22,8 @@ This repository contains my personal solutions to the **HDLBits** problem sets. 
 | **05. More Verilog Features** | ✅ Completed |
 | **06. Combinational Logic** | ✅ Completed |
 | **07. Sequential Logic** | ✅ Completed |
-| **08. More Circuits** | 🛠️ In Progress |
+| **08. More Circuits** | ✅ Completed |
+| **09. Reading Simulations** | 🛠️ In Progress |
 
 ---
 
